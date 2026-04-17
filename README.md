@@ -7,7 +7,7 @@
 
 ## 🔬 Projects
 
-### ⚽ Multi-Agent Football Learning (Master Thesis)
+### ⚽ Multi-Agent Football Learning (Master Thesis) -- currently working
 Exploring how to learn realistic and generalizable multi-agent policies from offline football tracking data.
 
 - Offline Reinforcement Learning & Imitation Learning
